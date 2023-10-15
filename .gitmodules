@@ -1,0 +1,3 @@
+[submodule "htdocs/daloradius"]
+	path = htdocs/daloradius
+	url = https://github.com/lirantal/daloradius.git
